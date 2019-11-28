@@ -1,5 +1,7 @@
 # distributed-systems-task2
 
+Link to documentation https://docs.google.com/document/d/1VN8Pm_7GwWx0albcUX6MhfxoBfeyoAVESdnwR3ncmq0/edit?usp=sharing
+
 ### How to use:
 1. install woped
 2. download files
